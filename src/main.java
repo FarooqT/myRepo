@@ -6,6 +6,6 @@ public class main {
         myMachine.addItem("Chips", 0.75);
         myMachine.printItems();
         myMachine.buyItem("PEPSI",10);
-        myMachine.printItems(); //this main
+        myMachine.printItems(); //this main s
     }
 }
