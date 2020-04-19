@@ -1,5 +1,5 @@
 public class main {
-    public static void main(String[] args) {
+public static void main(String[] args) {
         VendingMachine myMachine = new VendingMachine();
         myMachine.addItem("PEPSI", 0.35);
         myMachine.addItem("Chocolate", 1.25);
@@ -7,5 +7,5 @@ public class main {
         myMachine.printItems();
         myMachine.buyItem("PEPSI",10);
         myMachine.printItems(); //this main s
-    }
-}
+        }
+        }
